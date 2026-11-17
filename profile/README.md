@@ -14,17 +14,16 @@ Tinvex is a fan app and the operating system for communities. Fans pick their pe
 
 Got an audience? Tinvex turns followers into superfans: digital membership card and season ticket on the phone, XP and tiers that reward loyal fans, your own community with no algorithms in the way, and exclusive rewards and experiences. Learn more at https://tinvex.io/en/comunidad/
 
+## En espanol
+
+**Donde los fans importan.** Tinvex es la app de fans y el sistema operativo para comunidades: eliges a tu gente (tu club, tu artista, tu equipo), te unes con tu carnet digital, ganas XP con cada gesto y canjeas recompensas que el dinero no puede comprar. Si tienes una audiencia, mas informacion en https://tinvex.io/comunidad/
+
+## Community
+
+Questions, ideas or feedback? Join the conversation in our organization Discussions. To report a security issue, see our Security Policy. Contact: contacto@tinvex.io
+
 ## Repositories
 
 Our code is mostly private. Public projects will be listed here as they are released.
 
 (c) 2026 Tinvex Exchange Limited. Dublin, Ireland.
-
-
-## En espanol
-
-**Donde los fans importan.** Tinvex es la app de fans y el sistema operativo para comunidades: eliges a tu gente (tu club, tu artista, tu equipo), te unes con tu carnet digital, ganas XP con cada gesto y canjeas recompensas que el dinero no puede comprar. Si tienes una audiencia, en https://tinvex.io/es/comunidad/ te contamos como convertir seguidores en superfans.
-
-## Community
-
-Questions, ideas or feedback? Join the conversation in our organization Discussions. To report a security issue, see our Security Policy. Contact: contacto@tinvex.io
